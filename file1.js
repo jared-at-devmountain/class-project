@@ -1,3 +1,3 @@
 console.log('hiu')
 
-console.log("HelloWorld")
+console.log("GoodMorning star shine the earth says Hello")
